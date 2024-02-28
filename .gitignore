@@ -1,3 +1,10 @@
+# unuseful files and folders
+.idea/
+*.edf
+*.csv
+DOCS/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
